@@ -5,12 +5,6 @@ The model is trained using a **Random Forest Classifier** on the classic Iris da
 
 ---
 
-## 📸 App Preview
-
-![preview](preview.png)
-
----
-
 ## 🚀 Features
 
 - 🖱️ Interactive sliders to input Sepal and Petal measurements
